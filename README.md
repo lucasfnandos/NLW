@@ -1,6 +1,6 @@
 # NLW eSports - Trilha Explorer
 
-![preview](./.github/PreviewPage.png)
+![preview](./.github/PagePreview.png)
 
 >Projeto construído do evento Newt Level Week da Rocketseat.
 
@@ -15,3 +15,5 @@
 ## 📧Contato
 
 lucasfsoares@hotmail.com
+
+#### Esta é a minha adaptação do projeto que foi ensinado durante a NLW da Rocketseat que tinha como tema o mundo dos eSports. Eu adaptei conforme minha realidade de navegação e fiquei muito feliz com o resultado. Continuarei estudando e aplicando tecnologias para desenvolver páginas ainda mais legais. 🚀

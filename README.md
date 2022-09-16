@@ -2,7 +2,7 @@
 
 ![preview](./.github/PagePreview.png)
 
->Projeto construído do evento Newt Level Week da Rocketseat.
+>Projeto construído do evento Next Level Week da Rocketseat.
 
 🔗 [Clique para acessar](https://lucasfnandos.github.io/NLW/)
 
